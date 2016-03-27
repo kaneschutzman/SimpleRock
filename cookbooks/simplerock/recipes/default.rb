@@ -716,10 +716,10 @@ end
 ######################################################
 require 'uri'
 
-license_plugin_url = 'https://download.elastic.co/elasticsearch/release/org/elasticsearch/plugin/license/2.2.0/license-2.2.0.zip'
-license_plugin_hash = 'c458b835441223ec41ae85915fbb6b325fb004b98e35c5d49660b29f2f0d7b22'
-marvel_agent_url = 'https://download.elastic.co/elasticsearch/release/org/elasticsearch/plugin/marvel-agent/2.2.0/marvel-agent-2.2.0.zip'
-marvel_agent_hash = '57a097d6bd013782887ee551036765b88219d4bcd5e8544c79cc6b14599eb05e'
+license_plugin_url = 'https://download.elastic.co/elasticsearch/release/org/elasticsearch/plugin/license/2.2.1/license-2.2.1.zip'
+license_plugin_hash = '84210ADEB9E7999C05D74644D8EB98BD6B50305C41A80F2FA179DA6857D04331'
+marvel_agent_url = 'https://download.elastic.co/elasticsearch/release/org/elasticsearch/plugin/marvel-agent/2.2.1/marvel-agent-2.2.1.zip'
+marvel_agent_hash = '8CCC01D38703DA96E76F8E0488FB78D6AB00030CC1C785B08BECA506B9AF15F2'
 esSQL_plugin_url = 'https://github.com/NLPchina/elasticsearch-sql/releases/download/2.2.0/elasticsearch-sql-2.2.0.zip'
 esSQL_plugin_hash = 'daf74a6691678273baf045068088ada4bc4d6903a231e4ba7ce6f9d621df473d'
 esHQ_plugin_url = 'https://codeload.github.com/royrusso/elasticsearch-HQ/legacy.zip/v2.0.3'
