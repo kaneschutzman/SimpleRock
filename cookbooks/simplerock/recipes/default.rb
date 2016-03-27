@@ -717,7 +717,7 @@ end
 require 'uri'
 
 license_plugin_url = 'https://download.elastic.co/elasticsearch/release/org/elasticsearch/plugin/license/2.2.1/license-2.2.1.zip'
-license_plugin_hash = '84210ADEB9E7999C05D74644D8EB98BD6B50305C41A80F2FA179DA6857D04331'
+license_plugin_hash = 'C458B835441223EC41AE85915FBB6B325FB004B98E35C5D49660B29F2F0D7B22'
 marvel_agent_url = 'https://download.elastic.co/elasticsearch/release/org/elasticsearch/plugin/marvel-agent/2.2.1/marvel-agent-2.2.1.zip'
 marvel_agent_hash = '8CCC01D38703DA96E76F8E0488FB78D6AB00030CC1C785B08BECA506B9AF15F2'
 esSQL_plugin_url = 'https://github.com/NLPchina/elasticsearch-sql/releases/download/2.2.0/elasticsearch-sql-2.2.0.zip'
